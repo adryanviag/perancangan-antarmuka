@@ -63,7 +63,7 @@ function Home() {
                 <div className="flex flex-col w-screen items-center">
                     <div className="flex flex-col items-center justify-center w-full my-24">
                         <div className="border-4 w-40 h-40 border-beige m-5 rounded-full">
-                            <img src="./perancangan-antarmuka/img/photo.png" className="h-full w-full object-cover rounded-full" alt="avatar" />
+                            <img src="./img/photo.png" className="h-full w-full object-cover rounded-full" alt="avatar" />
                         </div>
                         <div className="text-white font-bold text-4xl sm:text-5xl md:text-6xl ">
                             It's me <span className="text-beige">Adryan.</span>
