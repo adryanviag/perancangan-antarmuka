@@ -35,7 +35,7 @@ const photos = [
     {
         title: 'Pekanbaru, Riau',
         desc: 'Langit ungu di jalan Kamboja, what a beautiful view.',
-        img: './img/gallery/7.jpg',
+        img: './perancangan-antarmuka/img/gallery/7.jpg',
         alt: 'image-2'
     },
     {
