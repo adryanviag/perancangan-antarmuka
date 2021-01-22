@@ -51,6 +51,12 @@ function Nav(props) {
         scroll.scrollTo(1360)
     }
 
+    const toContact = (e) => {
+        e.preventDefault();
+        setToggle(false)
+        scroll.scrollTo(1560)
+    }
+
     const toTop = (e) => {
         e.preventDefault();
         scroll.scrollToTop();
@@ -80,7 +86,7 @@ function Nav(props) {
                     <li><a className="text-5xl md:text-7xl" href="/" onClick={toTop}>Home</a></li>
                     <li><a className="text-5xl md:text-7xl" href="/" onClick={scrollerToSection}>About me</a></li>
                     <li><a className="text-5xl md:text-7xl" href="/" onClick={toGallery}>Gallery</a></li>
-                    <li><a className="text-5xl md:text-7xl" href="/">Contact</a></li>
+                    <li><a className="text-5xl md:text-7xl" href="/" onClick={toContact}>Contact</a></li>
                 </ul>
             </div>
         </>

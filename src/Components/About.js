@@ -13,7 +13,7 @@ function About() {
                 </div>
                 <div className="flex justify-center md:bg-beigehh lg:my-10">
                     <div className="lg:rounded-l-full mb-2 lg:max-w-6xl md:max-w-2xl sm:max-w-xl max-w-md w-full lg:flex">
-                        <div className="h-56 lg:h-auto lg:w-96 lg:rounded-full rounded flex-none bg-cover bg-center text-center overflow-hidden" style={{ backgroundImage: 'url("./perancangan-antarmuka/img/photo.png")' }} title="Image">
+                        <div className="h-56 lg:h-auto lg:w-96 lg:rounded-full rounded flex-none bg-cover bg-center text-center overflow-hidden" style={{ backgroundImage: 'url("./img/photo.png")' }} title="Image">
                         </div>
                         <div className="bg-white bg-beigehh p-4 md:p-0 md:px-6 flex flex-col justify-between leading-normal">
                             <div className="">

@@ -5,43 +5,43 @@ const photos = [
     {
         title: 'Solok, West Sumatera',
         desc: "It was in my dad's house whe he was a kid. It's so cold here..",
-        img: './perancangan-antarmuka/img/gallery/1.png',
+        img: './gallery/1.png',
         alt: 'image-1'
     },
     {
         title: 'Payakumbuh, West Sumatera',
         desc: 'Makan jagung bakar di Kelok 9 with my friend.',
-        img: './perancangan-antarmuka/img/gallery/2.png',
+        img: './gallery/2.png',
         alt: 'image-2'
     },
     {
         title: 'Rokan Hulu, Riau',
         desc: 'Main basket di lapangan SMAN 1 Ujungbatu, SMA saya dulu.',
-        img: './perancangan-antarmuka/img/gallery/3.png',
+        img: './gallery/3.png',
         alt: 'image-2'
     },
     {
         title: 'Pekanbaru, Riau',
         desc: 'Pasca aksi G17S, tentang asap kebakaran hutan di Riau.',
-        img: './perancangan-antarmuka/img/gallery/4.png',
+        img: './gallery/4.png',
         alt: 'image-2'
     },
     {
         title: 'Pariaman, West Sumatera',
         desc: 'Foto bersama dosen saya di Ilkom UNRI, pak Zaiful Bahri.',
-        img: './perancangan-antarmuka/img/gallery/5.png',
+        img: './gallery/5.png',
         alt: 'image-2'
     },
     {
         title: 'Pekanbaru, Riau',
         desc: 'Langit ungu di jalan Kamboja, what a beautiful view.',
-        img: './perancangan-antarmuka/img/gallery/7.jpg',
+        img: './gallery/7.jpg',
         alt: 'image-2'
     },
     {
         title: 'Padang, West Sumatera',
         desc: 'It was in taplau or local call it "Tapi Lauik", means seaside.',
-        img: './perancangan-antarmuka/img/gallery/5.jpg',
+        img: './gallery/5.jpg',
         alt: 'image-2'
     },
 ]
