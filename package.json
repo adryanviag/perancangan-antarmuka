@@ -2,7 +2,7 @@
   "homepage": "http://adryanviag.github.io/perancangan-antarmuka",
   "name": "perancangan-antarmuka",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@craco/craco": "^6.0.0",
     "@tailwindcss/postcss7-compat": "^2.0.2",
