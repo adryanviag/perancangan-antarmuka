@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/perancangan-antarmuka/static/css/main.b2a57d48.chunk.css",
-    "main.js": "/perancangan-antarmuka/static/js/main.dfe37426.chunk.js",
-    "main.js.map": "/perancangan-antarmuka/static/js/main.dfe37426.chunk.js.map",
+    "main.js": "/perancangan-antarmuka/static/js/main.b379df2f.chunk.js",
+    "main.js.map": "/perancangan-antarmuka/static/js/main.b379df2f.chunk.js.map",
     "runtime-main.js": "/perancangan-antarmuka/static/js/runtime-main.f33041b8.js",
     "runtime-main.js.map": "/perancangan-antarmuka/static/js/runtime-main.f33041b8.js.map",
-    "static/js/2.3ce1836d.chunk.js": "/perancangan-antarmuka/static/js/2.3ce1836d.chunk.js",
-    "static/js/2.3ce1836d.chunk.js.map": "/perancangan-antarmuka/static/js/2.3ce1836d.chunk.js.map",
+    "static/js/2.87298155.chunk.js": "/perancangan-antarmuka/static/js/2.87298155.chunk.js",
+    "static/js/2.87298155.chunk.js.map": "/perancangan-antarmuka/static/js/2.87298155.chunk.js.map",
     "static/js/3.a512fb31.chunk.js": "/perancangan-antarmuka/static/js/3.a512fb31.chunk.js",
     "static/js/3.a512fb31.chunk.js.map": "/perancangan-antarmuka/static/js/3.a512fb31.chunk.js.map",
     "index.html": "/perancangan-antarmuka/index.html",
     "static/css/main.b2a57d48.chunk.css.map": "/perancangan-antarmuka/static/css/main.b2a57d48.chunk.css.map",
-    "static/js/2.3ce1836d.chunk.js.LICENSE.txt": "/perancangan-antarmuka/static/js/2.3ce1836d.chunk.js.LICENSE.txt",
+    "static/js/2.87298155.chunk.js.LICENSE.txt": "/perancangan-antarmuka/static/js/2.87298155.chunk.js.LICENSE.txt",
     "static/media/bg.css": "/perancangan-antarmuka/static/media/bg2.ab89b07c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f33041b8.js",
-    "static/js/2.3ce1836d.chunk.js",
+    "static/js/2.87298155.chunk.js",
     "static/css/main.b2a57d48.chunk.css",
-    "static/js/main.dfe37426.chunk.js"
+    "static/js/main.b379df2f.chunk.js"
   ]
 }
