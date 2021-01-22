@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/perancangan-antarmuka/static/css/main.b2a57d48.chunk.css",
-    "main.js": "/perancangan-antarmuka/static/js/main.0127960f.chunk.js",
-    "main.js.map": "/perancangan-antarmuka/static/js/main.0127960f.chunk.js.map",
+    "main.js": "/perancangan-antarmuka/static/js/main.dfe37426.chunk.js",
+    "main.js.map": "/perancangan-antarmuka/static/js/main.dfe37426.chunk.js.map",
     "runtime-main.js": "/perancangan-antarmuka/static/js/runtime-main.f33041b8.js",
     "runtime-main.js.map": "/perancangan-antarmuka/static/js/runtime-main.f33041b8.js.map",
     "static/js/2.3ce1836d.chunk.js": "/perancangan-antarmuka/static/js/2.3ce1836d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f33041b8.js",
     "static/js/2.3ce1836d.chunk.js",
     "static/css/main.b2a57d48.chunk.css",
-    "static/js/main.0127960f.chunk.js"
+    "static/js/main.dfe37426.chunk.js"
   ]
 }
