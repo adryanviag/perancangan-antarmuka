@@ -5,7 +5,7 @@ const photos = [
     {
         title: 'Solok, West Sumatera',
         desc: "It was in my dad's house whe he was a kid. It's so cold here..",
-        img: '.img/gallery/1.png',
+        img: './img/gallery/1.png',
         alt: 'image-1'
     },
     {
@@ -35,7 +35,7 @@ const photos = [
     {
         title: 'Pekanbaru, Riau',
         desc: 'Langit ungu di jalan Kamboja, what a beautiful view.',
-        img: './perancangan-antarmuka/img/gallery/7.jpg',
+        img: './img/gallery/7.JPG',
         alt: 'image-2'
     },
     {
